@@ -1,7 +1,7 @@
 ---
 title: Josué Diwambuena
 role: Ph.D Candidate in Economics
-avatar_filename: dsc_0004.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Macroeconomics
