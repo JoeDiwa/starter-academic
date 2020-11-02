@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-laptop-code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Coding"
   description = "20%"
@@ -27,7 +27,7 @@ subtitle = ""
   description = "40%"  
   
 [[feature]]
-  icon = "fa-square-root-alt"
+  icon = "square-root-alt"
   icon_pack = "fas"
   name = "Macroeconometrics"
   description = "40%"
