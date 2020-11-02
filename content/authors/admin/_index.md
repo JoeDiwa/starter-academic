@@ -37,7 +37,7 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Josué Diwambuena (also known as Joe Diwa) is a Ph. D Candidate in Economics at Free University of Bozen-Bolzano (FUB). My research interests span the areas of macroeconomics, labour market dynamics, migration, monetary policy, macroprudential policy, and business cycle. Methodologically, my research agenda greatly focuses on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregressive (SVAR) modeling.
+I am a Ph. D Candidate in Economics at Free University of Bozen-Bolzano (FUB). My research interests span the areas of macroeconomics, labour market dynamics, and business cycle. Methodologically, my research agenda greatly focuses on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregressive (SVAR) modeling.
 
 My supervisors are Prof. Stefan Schubert (FUB), Prof.  Francesco Ravazzolo (FUB), Prof. Raquel Fonseca (University of Quebec at Montreal, UQAM).
 
