@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Papers"
+subtitle = "Identification of Labour Market Shocks"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Josué Diwambuena, Francesco Ravazzolo"
     exclude_featured = false
   
 [design]
