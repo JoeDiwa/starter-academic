@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Papers"
-subtitle = "Identification of Labour Market Shocks"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -28,7 +28,7 @@ subtitle = "Identification of Labour Market Shocks"
     tag = ""
     category = ""
     publication_type = ""
-    author = "Josué Diwambuena, Francesco Ravazzolo"
+    author = ""
     exclude_featured = false
   
 [design]
