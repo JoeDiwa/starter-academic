@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "we are trying to test this"
+  caption: ""
   image: ""
 ---
