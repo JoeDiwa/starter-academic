@@ -21,13 +21,13 @@ organizations:
     url: https://www.unibz.it/en/
 education:
   courses:
-    - course: Ph.D in Economics
+    - course: Ph.D in Economics, 2021
       institution: Free University of Bozen-Bolzano
       year: ""
-    - course: M.Sc. in Economics
+    - course: M.Sc. in Economics, 2016
       institution: University of Siena
       year: ""
-    - course: Bachelor's in Economics
+    - course: Bachelor's in Economics, 2012
       institution: Tshwane University of Technology
       year: ""
 email: ""
