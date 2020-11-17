@@ -1,6 +1,6 @@
 ---
-title: "An example conference paper"
-authors:
+title: ""Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE Model"
+authors: Josué Diwambuena, Raquel Fonseca, Stefan Schubert
 - admin
 - Robert Ford
 date: "2013-07-01T00:00:00Z"
@@ -13,13 +13,15 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  In this paper, we develop a DSGE model that featureslabour market frictions and wage rigidities to assess the relevance of several structural shocks on
+labour market dynamics and the business cycle in Italy. We estimate our model with Bayesian techniques using quarterly Italian macroeconomic and labour market data. Our results show: First,technology shocks (neutral and investment-specific), the preference shock and the wage bargaining shock explain a large share of macroeconomic fluctuations across horizons. Second, the primacy of the mismatch shock and the wage bargaining shock is significant in accounting for economic
+volatility in the unemployment rate and vacancies but is limited for the business cycle. Moreover, accounting for wage rigidities drastically amplifies the propagation mechanism of shocks and enables the model to fit data more closely.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
