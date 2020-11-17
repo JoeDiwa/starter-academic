@@ -20,10 +20,7 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy. We estimate our model with Bayesian techniques using quarterly Italian macroeconomic and labour market data. Our results show: First, technology shocks (neutral and investment-specific), the preference shock and the wage bargaining shock explain a large share of macroeconomic
-fluctuations across horizons. Second, the primacy of the mismatch shock and the wage bargaining shock is significant in accounting for economic volatility in the unemployment
-rate and vacancies but is limited for the business cycle. Moreover, accounting for wage rigidities drastically amplifies the propagation mechanism of shocks and enables the
-model to fit data more closely. 
+abstract: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
