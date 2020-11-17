@@ -1,8 +1,9 @@
 ---
 title: ""Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE Model"
-authors: Josué Diwambuena, Raquel Fonseca, Stefan Schubert
+authors: 
 - admin
-- Robert Ford
+- Raquel Fonseca
+- Stefan Schubert
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
