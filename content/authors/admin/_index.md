@@ -12,10 +12,10 @@ social:
     icon: twitter
   - link: https://www.linkedin.com/in/joediwa/
     icon_pack: fab
-    icon: <i class="fab fa-linkedin-in"></i>
+    icon: linkedin
   - link: https://www.facebook.com/josue.diwambuena
     icon_pack: fab
-    icon: <i class="fab fa-facebook"></i>
+    icon: facebook
 organizations:
   - name: Free University of Bozen-Bolzano
     url: https://www.unibz.it/en/
