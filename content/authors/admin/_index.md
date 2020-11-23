@@ -8,8 +8,8 @@ interests:
   - Macroeconometrics
 social:
   - link: https://twitter.com/Joediwa
-    icon_pack: ai
-    icon: <i class="fab fa-twitter"></i>
+    icon_pack: fab
+    icon: twitter
   - link: https://www.linkedin.com/in/joediwa/
     icon_pack: fab
     icon: <i class="fab fa-linkedin-in"></i>
