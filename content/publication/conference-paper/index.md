@@ -63,6 +63,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+--- 
 title: "The Real Effects of Uncertainty Shocks: New Evidence from Linear and Nonlinear SVAR Models"
 authors: 
 - admin
