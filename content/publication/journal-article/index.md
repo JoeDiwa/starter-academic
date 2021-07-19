@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 url: "econpapers.repec.org/paper/bznwpaper/bemps86.htm"
-# url_pdf: https://econpapers.repec.org/paper/bznwpaper/bemps86.htm
+url_pdf: https://econpapers.repec.org/paper/bznwpaper/bemps86.htm
 url_code: ''
 url_dataset: ''
 url_poster: ''
