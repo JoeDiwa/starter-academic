@@ -27,7 +27,7 @@ summary: In this paper, we develop a DSGE model that features labour market fric
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
