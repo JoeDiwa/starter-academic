@@ -20,7 +20,7 @@ publication_types: ["3"]
 # publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy. 
+# abstract: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy. 
 
 # Summary. An optional shortened abstract.
 summary: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy
