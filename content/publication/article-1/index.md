@@ -1,5 +1,5 @@
 ---
-title: "Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE Model"
+title: "Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE"
 authors: 
 - admin
 - Raquel Fonseca
@@ -31,8 +31,8 @@ featured: false
 
 links:
 # - name: Custom Link
- # url: http://example.org
- url_pdf: https://drive.google.com/file/d/1OmSZmMdm6U4P53cNLRmKVD7NHEdE9fs_/view?usp=sharing
+# url: http://example.org
+# url_pdf: https://drive.google.com/file/d/1OmSZmMdm6U4P53cNLRmKVD7NHEdE9fs_/view?usp=sharing
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
