@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
+ - name: Custom Link
 # url: http://example.org
   url_pdf: https://drive.google.com/file/d/1jQs1U9xJh1jspZp7szlb9SgGgFxFxjL-/view?usp=sharing
 # url_code: '#'
