@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: http://drive.google.com/file/d/1OmSZmMdm6U4P53cNLRmKVD7NHEdE9fs_/view?usp=sharing
+# url_pdf: http://drive.google.com/file/d/1OmSZmMdm6U4P53cNLRmKVD7NHEdE9fs_/view?usp=sharing
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
