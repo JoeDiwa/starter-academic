@@ -1,9 +1,9 @@
 ---
-title: "Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE Model"
+title: "Immigration and Matching Frictions in a Small Open Economy DSGE"
 authors: 
 - admin
-- Raquel Fonseca
-- Stefan Schubert
+- 
+- 
 date: "2020-11-01T00:00:00Z"
 doi: ""
 
