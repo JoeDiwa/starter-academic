@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: http://drive.google.com/file/d/1jQs1U9xJh1jspZp7szlb9SgGgFxFxjL-/view?usp=sharing
+url_pdf: http://ideas.repec.org/p/bzn/wpaper/bemps87.html
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
