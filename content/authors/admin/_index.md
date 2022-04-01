@@ -1,6 +1,6 @@
 ---
 title: Josué Diwambuena
-role: Ph.D Candidate in Economics
+role: Postdoctoral Fellow in Macroeconomics
 avatar_filename: diwa_avatar.jpg
 bio: ""
 interests:
@@ -37,8 +37,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-<p style="text-align:justify">I am a Ph. D Candidate in Economics at Free University of Bozen-Bolzano (FUB). My research interests span the areas of macroeconomics, labour market dynamics, and business cycle. Methodologically, my research agenda greatly focuses on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregressive (SVAR) modeling.
+<p style="text-align:justify">I am a Postdoctoral Fellow in Macroeconomics at CREEi, ESG-UQAM, Canada. I hold a PhD in Economics from Free University of Bozen-Bolzano (FUB), Italy. My research interests span the areas of macroeconomics, labour market dynamics, immigration, population ageing and business cycle. Methodologically, my research agenda greatly focuses on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregressive (SVAR) modeling.
 
-My supervisors are Stefan Schubert (FUB), Francesco Ravazzolo (FUB), Raquel Fonseca (University of Quebec at Montreal, UQAM).
-
-I was on a research visit of six months (Oct 2020-Mar 2021) in Canada where I worked under the supervision of Raquel Fonseca.</p>
+.</p>
