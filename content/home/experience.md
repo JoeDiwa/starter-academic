@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  # * Undertake research activities related to Ph.D thesis
-  # * Work on research papers and prepare them for submission
-  # * Work on the Job Market Paper
+  * Undertake research activities related to Ph.D thesis
+  * Work on research papers and prepare them for submission
+  * Work on the Job Market Paper
   """
 
 # [[experience]]
