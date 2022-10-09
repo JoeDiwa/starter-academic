@@ -9,9 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Research"
-  url = "#publications"
+  name = "Publications"
+  identifier = "Publications"
+  url = "publication/"
   weight = 20
+
+[[main]]
+name = "Published Research"
+parent = "Publications"
+url = "publication/"
+weight = 10
+
+[[main]]
+name = "Ongoing Research"
+parent = "Publications"
+url = "ongoing-research/"
+weight = 20
+
 
 #[[main]]
 #  name = "Projects"
