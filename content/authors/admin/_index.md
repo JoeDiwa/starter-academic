@@ -17,8 +17,8 @@ social:
     icon_pack: fab
     icon: facebook
 organizations:
-  - name: Free University of Bozen-Bolzano
-    url: https://www.unibz.it/en/
+  - name: ESG-UQAM
+    url: https://esg.uqam.ca/en/
 education:
   courses:
     - course: Ph.D in Economics, 2021
