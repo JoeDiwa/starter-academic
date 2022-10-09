@@ -89,11 +89,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "josuediwa@gmail.com"
-phone = "+393511962343"
+phone = "+1 437-388-2711"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Piazza Universita", city = "Bolzano", region = "BZ", postcode = "39100", country = "Italy", country_code = "IT"}
+address = {street = "405 Rue Sainte-Catherine Est", city = "Montreal", region = "", postcode = "H2L 2C4", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
