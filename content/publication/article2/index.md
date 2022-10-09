@@ -1,5 +1,5 @@
 ---
-title: "Immigration and Matching Frictions in a Small Open Economy DSGE"
+title: "Immigration and the Labor Share in New Zealand"
 authors: 
 - admin
 - 
