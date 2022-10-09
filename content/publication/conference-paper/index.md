@@ -1,5 +1,5 @@
 ---
-title: "Italian Labour Market Frictions and Wages Rigidities in an Estimated DSGE Model"
+title: "Labor Market Institutions, productivity and Business Cycle: An application to Italy"
 authors: 
 - admin
 - Raquel Fonseca
@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
-publication_short: In *STC*
+#publication_short: In *STC*
 
 # abstract: In this paper, we develop a DSGE model that features labour market frictions and wage rigidities to assess the relevance of several structural shocks on labour market dynamics and the business cycle in Italy. 
 
