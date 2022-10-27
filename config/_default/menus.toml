@@ -24,7 +24,7 @@ weight = 10
 name = "Other Research"
 parent = "Publications"
 url = "ongoing-research/"
-weight = 10
+weight = 20
 
 
 #[[main]]
