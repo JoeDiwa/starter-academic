@@ -20,7 +20,7 @@ publication_types: ["3"]
 # publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
- #abstract: We develop a New Keynesian DSGE model with labor market frictions to assess to what extent changes in labor market institutions (LMI) affect the cyclicality and the dynamics of productivity and by how much LMI account for business cycle fluctuations in Italy. 
+abstract: We develop a New Keynesian DSGE model with labor market frictions to assess to what extent changes in labor market institutions (LMI) affect the cyclicality and the dynamics of productivity and by how much LMI account for business cycle fluctuations in Italy. 
 
 # Summary. An optional shortened abstract.
 # summary: We develop a New Keynesian DSGE model with labor market frictions to assess to what extent changes in labor market institutions (LMI) affect the cyclicality and the dynamics of productivity and by how much LMI account for business cycle fluctuations in Italy.
