@@ -40,7 +40,7 @@ weight = 20
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 20
+  weight = 40
   
 #[[main]]
 #  name = "Experiences"
