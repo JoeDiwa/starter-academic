@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We document a decline in labor productivity in Italy in the early 2000s. We propose a structural VAR with theory-based sign restriction to identify the drivers that contribute to explain movements in labor productivity dynamics. We use quarterly Italian data spanning the period 1999Q1-2018Q4. Our result show that demand shocks that temporarily reduce total hours are the dominant source of fluctuations in labor productivity.
+abstract: We document a decline in labor productivity in Italy in the early 2000s. We propose a structural VAR with theory-based sign restriction to identify the drivers that explain movements in labor productivity dynamics. We use quarterly Italian data spanning the period 1999Q1-2018Q4. Our result show that demand shocks that temporarily reduce total hours are the dominant source of fluctuations in labor productivity.
 
 # Summary. An optional shortened abstract.
 summary: 
