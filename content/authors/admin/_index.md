@@ -17,11 +17,11 @@ social:
     icon_pack: fab
     icon: facebook
 organizations:
-  - name: ESG-UQAM
-    url: https://esg.uqam.ca/en/
+  - name: CREEi, ESG-UQAM
+    url: https://creei.ca/equipe/
 education:
   courses:
-    - course: Ph.D in Economics, 2021
+    - course: Ph.D in Economics, 2022
       institution: Free University of Bozen-Bolzano
       year: ""
     - course: M.Sc. in Economics, 2016
