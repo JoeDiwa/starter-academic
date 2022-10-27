@@ -15,16 +15,16 @@
   weight = 20
 
 [[main]]
-name = "Published Research"
+name = "Working Papers"
 parent = "Publications"
 url = "publication/"
 weight = 10
 
 [[main]]
-name = "Ongoing Research"
+name = "Other Research"
 parent = "Publications"
 url = "ongoing-research/"
-weight = 20
+weight = 10
 
 
 #[[main]]
@@ -40,7 +40,7 @@ weight = 20
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 20
   
 #[[main]]
 #  name = "Experiences"
