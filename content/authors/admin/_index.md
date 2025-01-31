@@ -1,6 +1,6 @@
 ---
 title: Josué Diwambuena
-role: Postdoctoral Fellow in Macroeconomics
+role: Policy Analyst at ESDC
 avatar_filename: diwa_avatar.jpg
 bio: ""
 interests:
