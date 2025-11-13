@@ -1,6 +1,6 @@
 ---
 title: Josué Diwambuena
-role: Policy Analyst at ESDC
+role: Policy Analyst
 avatar_filename: diwa_avatar.jpg
 bio: ""
 interests:
@@ -17,8 +17,8 @@ social:
     icon_pack: fab
     icon: facebook
 organizations:
-  - name: CREEi, ESG-UQAM
-    url: https://creei.ca/equipe/
+  - name: ESDC
+    url: https://www.canada.ca/en.html
 education:
   courses:
     - course: Ph.D in Economics, 2022
@@ -37,6 +37,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-<p style="text-align:justify">I am a Postdoctoral Fellow in Macroeconomics at CREEi, ESG-UQAM, Canada. I hold a PhD in Economics from Free University of Bozen-Bolzano (FUB), Italy. My research interests span the areas of macroeconomics, labour market dynamics, immigration, population ageing and business cycle. Methodologically, my research agenda greatly focuses on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregressive (SVAR) modeling.
+<p style="text-align:justify">I am an Economist (Policy Analyst) at the Government of Canada and an affiliated researrch with CREEi Research chair at ESG-UQAM (Canada). Previously, I was a postdoctoral researcher in Macroeconomics at CREEi, ESG-UQAM. I hold a PhD in Economics from Free University of Bozen-Bolzano (FUB, Italy). My research agenda focuses on understanding the macroeconomic effects of structural changes in the labor market. My research interest includes Macroeconomics, labour market dynamics, immigration, automation, and business cycle fluctuations. Methodologically, my research agenda relies on the application of dynamic stochastic general equilibrium (DSGE) and structural vector autoregression (SVAR) with sign-restriction identification schemes.
 
 .</p>
