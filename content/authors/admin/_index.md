@@ -23,13 +23,13 @@ education:
   courses:
     - course: Ph.D in Economics, 2022
       institution: Free University of Bozen-Bolzano
-      year: ""
+      year: "2022"
     - course: M.Sc. in Economics, 2016
       institution: University of Siena
-      year: ""
+      year: "2016"
     - course: Bachelor's in Economics, 2012
       institution: Tshwane University of Technology
-      year: ""
+      year: "2012"
 email: ""
 superuser: true
 user_groups:
